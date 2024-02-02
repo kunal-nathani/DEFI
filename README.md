@@ -68,26 +68,7 @@ npm run dev
    ```
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+🚀 Welcome to our Git repo! Thanks for dropping by. Explore, contribute, and happy coding! 🙌 #OpenSourceMagic
 
 
 
